@@ -12,6 +12,7 @@ public enum TShirtProperties {
     TShirtProperties(TShirtProperties size,String manufacturer){
         this.size=size;
         this.manufacturer=manufacturer;
+        System.out.println("siema");
 
     }
 
